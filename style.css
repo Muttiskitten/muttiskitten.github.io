@@ -22,6 +22,15 @@ h3:hover {
   text-shadow: 2px 2px 3px gray;
 }
 
+.info-content {
+      position: absolute;
+      background-color: #f1f1f1;
+      border: 1px solid #ccc;
+      padding: 5px;
+      display: none;
+      z-index: 1;
+    }
+
 .contact:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
