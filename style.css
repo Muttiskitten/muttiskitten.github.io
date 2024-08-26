@@ -34,25 +34,30 @@ h3:hover {
 .contact:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
+  text-align: center;
 }
 
 .work:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
+  text-align: center;
 }
 
 .school:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
+  text-align: center;
 }
 
 .skills:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
+  text-align: center;
 }
 
 .social:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
+  text-align: center;
 }
 
