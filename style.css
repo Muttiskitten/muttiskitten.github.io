@@ -1,0 +1,49 @@
+main {
+  
+}
+
+body {
+  text-align: center;
+  margin: 20px;
+  border: .5px solid black;
+  padding: 25px;
+  
+}
+
+h1:hover {
+  text-shadow: 2px 2px 3px gray;
+}
+
+h2:hover {
+  text-shadow: 2px 2px 3px gray;
+}
+
+h3:hover {
+  text-shadow: 2px 2px 3px gray;
+}
+
+.contact:hover {
+  border: 1px solid purple;
+  box-shadow: 5px 5px 3px gray;
+}
+
+.work:hover {
+  border: 1px solid purple;
+  box-shadow: 5px 5px 3px gray;
+}
+
+.school:hover {
+  border: 1px solid purple;
+  box-shadow: 5px 5px 3px gray;
+}
+
+.skills:hover {
+  border: 1px solid purple;
+  box-shadow: 5px 5px 3px gray;
+}
+
+.social:hover {
+  border: 1px solid purple;
+  box-shadow: 5px 5px 3px gray;
+}
+
