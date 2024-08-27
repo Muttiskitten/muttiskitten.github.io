@@ -4,9 +4,13 @@ document.querySelectorAll('.info').forEach(function(trigger) {
     document.getElementById('info-content').textContent = infoContent;
 
     var infoBox = document.querySelector('.info-content');
-    infoBox.style.left = event.clientX + 20 + 'px';
-    infoBox.style.top = event.clientY + 'px';
     infoBox.style.display = 'block';
+  });
+
+  trigger.addEventListener('mousemove', function(event) {
+    var infoBox = document.querySelector('.info-content');
+    infoBox.style.left = event.clientX + 20 + 'px';
+    infoBox.style.top = event.clientY + 20 + 'px';
   });
 
   trigger.addEventListener('mouseout', function(event) {
