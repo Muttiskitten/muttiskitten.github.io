@@ -31,11 +31,11 @@ h3:hover {
       padding: 5px;
       display: box;
       z-index: 1;
+      text-align: center;
     }
 
 .info {
   text-align: center;
-  list-style-position: inside;
   padding: 0;
 }
 
