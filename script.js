@@ -17,4 +17,17 @@ document.querySelectorAll('.info').forEach(function(trigger) {
     var infoBox = document.querySelector('.info-content');
     infoBox.style.display = 'none';
   });
+
+  trigger.addEventListener('mouseout', function(event) {
+    var infoBox = document.querySelector('.info-content');
+    infoBox.style.display = 'none';
+  });
+
+    document.getElementById('info-content').innerHTML = infoContentHTML;
+
+    var infoBox = document.querySelector('.info-content');
+    infoBox.style.left = event.clientX + 20 + 'px';
+    infoBox.style.top = event.clientY + 20 + 'px';
+    infoBox.style.display = 'block';
+  });
 });
