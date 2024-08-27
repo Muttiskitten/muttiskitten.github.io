@@ -18,11 +18,6 @@ document.querySelectorAll('.info').forEach(function(trigger) {
     infoBox.style.display = 'none';
   });
 
-  trigger.addEventListener('mouseout', function(event) {
-    var infoBox = document.querySelector('.info-content');
-    infoBox.style.display = 'none';
-  });
-
     document.getElementById('info-content').innerHTML = infoContentHTML;
 
     var infoBox = document.querySelector('.info-content');
