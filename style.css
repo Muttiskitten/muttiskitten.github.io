@@ -41,7 +41,7 @@ h3:hover {
   flex-shrink: 0;
   box-sizing: content-box;
   width: 50%;
-  position: relative;
+  position: absolute;
 }
 
 .work:hover {
@@ -51,7 +51,7 @@ h3:hover {
   flex-shrink: 0;
   box-sizing: content-box;
   width: 50%;
-  position: relative;
+  position: absolute;
 }
 
 .school:hover {
@@ -61,7 +61,7 @@ h3:hover {
   flex-shrink: 0;
   box-sizing: content-box;
   width: 50%;
-  position: relative;
+  position: absolute;
 }
 
 .skills:hover {
@@ -71,7 +71,7 @@ h3:hover {
   flex-shrink: 0;
   box-sizing: content-box;
   width: 50%;
-  position: relative;
+  position: absolute;
 }
 
 .social:hover {
@@ -81,7 +81,7 @@ h3:hover {
   flex-shrink: 0;
   box-sizing: content-box;
   width: 50%;
-  position: relative;
+  position: absolute;
 }
 
 .dropdown {
