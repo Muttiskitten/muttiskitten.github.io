@@ -29,10 +29,11 @@ h3:hover {
   background-color: #f1f1f1;
   border: 1px solid #ccc;
   padding: 5px;
-  display: block;
+  display: flex;
   z-index: 1;
   text-align: left;
   max-width: 300px;
+  flex-direction: column;
     }
 
 .info {
