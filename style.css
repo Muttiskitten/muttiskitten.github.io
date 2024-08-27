@@ -27,7 +27,7 @@ h3:hover {
       background-color: #f1f1f1;
       border: 1px solid #ccc;
       padding: 5px;
-      display: block;
+      display: flex;
       z-index: 1;
     }
 
@@ -35,30 +35,36 @@ h3:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
   text-align: center;
+  display: flex;
+  flex-shrink: 0;
 }
 
 .work:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
   text-align: center;
+  flex-shrink: 0;
 }
 
 .school:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
   text-align: center;
+  flex-shrink: 0;
 }
 
 .skills:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
   text-align: center;
+  flex-shrink: 0;
 }
 
 .social:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
   text-align: center;
+  flex-shrink: 0;
 }
 
 .dropdown {
@@ -73,8 +79,14 @@ h3:hover {
 
 .links:hover .dropdown {
   display: block;
+  box-shadow: 5px 5px 3px gray;
+  flex-shrink: 0;
 }
 
 ul {
+  text-align: center;
+}
+
+li {
   text-align: center;
 }
