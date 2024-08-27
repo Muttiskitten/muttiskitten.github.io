@@ -35,8 +35,9 @@ h3:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
   text-align: center;
-  display: flex;
+  display: box;
   flex-shrink: 0;
+  box-sizing: content-box;
 }
 
 .work:hover {
@@ -44,6 +45,7 @@ h3:hover {
   box-shadow: 5px 5px 3px gray;
   text-align: center;
   flex-shrink: 0;
+  box-sizing: content-box;
 }
 
 .school:hover {
@@ -51,6 +53,7 @@ h3:hover {
   box-shadow: 5px 5px 3px gray;
   text-align: center;
   flex-shrink: 0;
+  box-sizing: content-box;
 }
 
 .skills:hover {
@@ -58,6 +61,7 @@ h3:hover {
   box-shadow: 5px 5px 3px gray;
   text-align: center;
   flex-shrink: 0;
+  box-sizing: content-box;
 }
 
 .social:hover {
@@ -65,6 +69,7 @@ h3:hover {
   box-shadow: 5px 5px 3px gray;
   text-align: center;
   flex-shrink: 0;
+  box-sizing: content-box;
 }
 
 .dropdown {
@@ -81,6 +86,7 @@ h3:hover {
   display: block;
   box-shadow: 5px 5px 3px gray;
   flex-shrink: 0;
+  box-sizing: content-box;
 }
 
 ul {
