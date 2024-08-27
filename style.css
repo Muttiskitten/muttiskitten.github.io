@@ -31,8 +31,8 @@ h3:hover {
   padding: 5px;
   display: block;
   z-index: 1;
-  text-align: center;
-  max-width: 500px;
+  text-align: left, center;
+  max-width: 300px;
     }
 
 .info {
