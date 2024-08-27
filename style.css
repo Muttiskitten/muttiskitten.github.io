@@ -47,6 +47,7 @@ h3:hover {
   display: inline-block;
   box-sizing: content-box;
   width: 50%;
+  cursor: help;
 }
 
 .work:hover {
@@ -56,6 +57,7 @@ h3:hover {
   box-sizing: content-box;
   width: 50%;
   display: inline-block;
+  cursor: help;
 }
 
 .school:hover {
@@ -65,6 +67,7 @@ h3:hover {
   box-sizing: content-box;
   width: 50%;
   display: inline-block;
+  cursor: help;
 }
 
 .skills:hover {
@@ -74,6 +77,7 @@ h3:hover {
   box-sizing: content-box;
   width: 50%;
   display: inline-block;
+  cursor: help;
 }
 
 .social:hover {
@@ -83,6 +87,7 @@ h3:hover {
   box-sizing: content-box;
   width: 50%;
   display: inline-block;
+  cursor: help;
 }
 
 .dropdown {
