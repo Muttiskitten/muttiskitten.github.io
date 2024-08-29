@@ -139,5 +139,5 @@ svg {
   transition: fill 0.3s;
   fill: purple;
   padding: 5px;
-  text-shadow: 2px 2px 3px gray;
+  box-shadow: 2px 2px 3px gray;
 }
