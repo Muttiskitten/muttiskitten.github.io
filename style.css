@@ -137,4 +137,5 @@ svg {
   height: 16px;
   width: 16px;
   transition: fill 0.3s;
+  padding: 2px;
 }
