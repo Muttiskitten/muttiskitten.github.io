@@ -137,7 +137,6 @@ svg {
 }
 
 svg:hover {
-  box-shadow: 2px 2px 3px gray;
   transition: fill 0.3s;
   fill: gold;
 }
