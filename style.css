@@ -54,6 +54,7 @@ h3:hover {
   width: 50%;
   cursor: help;
   border-radius: 25px;
+  position: absolute;
 }
 
 .work {
