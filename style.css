@@ -42,11 +42,6 @@ h3:hover {
   display: inline-block;
 }
 
-.contact {
-  dsplay: inline-block;
-  text-align: center;
-}
-
 .contact:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
@@ -56,11 +51,6 @@ h3:hover {
   border-radius: 25px;
   position: absolute;
   dsplay: inline-block;
-  text-align: center;
-}
-
-.work {
-  display: inline-block;
   text-align: center;
 }
 
@@ -75,11 +65,6 @@ h3:hover {
   text-align: center;
 }
 
-.school {
-  display: inline-block;
-  text-align: center;
-}
-
 .school:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
@@ -88,11 +73,6 @@ h3:hover {
   cursor: help;
   border-radius: 25px;
   dsplay: inline-block;
-  text-align: center;
-}
-
-.skills {
-  display: inline-block;
   text-align: center;
 }
 
@@ -105,11 +85,6 @@ h3:hover {
   border-radius: 25px;
   dsplay: inline-block;
   text-align: center;
-}
-
-.social {
-  text-align: center;
-  display: inline-block;
 }
 
 .social:hover {
