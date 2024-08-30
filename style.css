@@ -36,12 +36,13 @@ p {
 }
 
 .info-content {
-      position: absolute;
-      background-color: #f1f1f1;
-      border: 1px solid #ccc;
-      padding: 5px;
-      display: none;
-      z-index: 1;
+  position: absolute;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  padding: 5px;
+  display: none;
+  z-index: 1;
+  white-space: pre-line;
 }
 
 .info {
@@ -53,7 +54,8 @@ p {
 }
 
 .name:hover {
-  text-shadow: 2px 2px 3px gray;
+  text-shadow: 2px 2px 3px purple;
+  border-radius: 10px;
 }
 
 .contact {
@@ -62,6 +64,16 @@ p {
 
 .contact:hover {
   box-shadow: 5px 5px 3px gray;
+  border-radius: 10px;
+}
+
+.work {
+  
+}
+
+.work:hover {
+  box-shadow: 5px 5px 3px gray;
+  border-radius: 10px;
 }
 
 .school {
@@ -69,7 +81,8 @@ p {
 }
   
 .school:hover {
-  box-shadow: 5px 5px 3px gray;  
+  box-shadow: 5px 5px 3px gray;
+  border-radius: 10px;
 }
 
 .skills {
@@ -78,6 +91,7 @@ p {
 
 .skills:hover {
   box-shadow: 5px 5px 3px gray;
+  border-radius: 10px;
 }
 
 .links {
@@ -86,10 +100,11 @@ p {
 
 .links:hover {
   box-shadow: 5px 5px 3px gray;
+  border-radius: 10px;
 }
 
 ul {
-  
+  list-style-type: none;
 }
 
 li {
