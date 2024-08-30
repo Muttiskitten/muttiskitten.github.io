@@ -9,7 +9,10 @@ main {
 
 body {
   text-align: center;
-  margin: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
   border: .5px solid black;
   padding-left: 200px;
   padding-right: 200px;
