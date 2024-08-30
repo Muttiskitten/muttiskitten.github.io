@@ -3,7 +3,8 @@ main {
 }
 
 body {
-  
+  border: 1px solid black;
+  text-align: center;
 }
 
 h1 {
@@ -11,7 +12,7 @@ h1 {
 }
 
 h1:hover {
-  
+  text-shadow: 2px 2px 3px gray;
 }
 
 h2 {
@@ -19,7 +20,7 @@ h2 {
 }
 
 h2:hover {
-  
+  text-shadow: 2px 2px 3px gray;
 }
 
 h3 {
@@ -27,6 +28,69 @@ h3 {
 }
 
 h3:hover {
+  text-shadow: 2px 2px 3px gray;
+}
+
+p {
   
 }
 
+.info-content {
+      position: absolute;
+      background-color: #f1f1f1;
+      border: 1px solid #ccc;
+      padding: 5px;
+      display: none;
+      z-index: 1;
+
+.info {
+  
+}
+
+.name {
+  
+}
+
+.name:hover {
+  text-shadow: 2px 2px 3px gray;
+}
+
+.contact {
+  
+}
+
+.contact:hover {
+  
+}
+
+.school {
+  
+}
+  
+.school:hover {
+    
+}
+
+.skills {
+  
+}
+
+.skills:hover {
+  
+}
+
+.links {
+  
+}
+
+.links:hover {
+  
+}
+
+ul {
+  
+}
+
+li {
+  
+}
