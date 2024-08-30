@@ -3,7 +3,7 @@ main {
 }
 
 body {
-  text-align: flex, center;
+  text-align: center;
   margin: 50px;
   border: .5px solid black;
   padding-left: 200px;
