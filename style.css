@@ -42,15 +42,22 @@ h3:hover {
   display: inline-block;
 }
 
+.contact {
+  dsplay: inline-block; 
+}
+
 .contact:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
   text-align: center;
-  display: inline-block;
   box-sizing: content-box;
   width: 50%;
   cursor: help;
   border-radius: 25px;
+}
+
+.work {
+  display: inline-block; 
 }
 
 .work:hover {
@@ -59,9 +66,12 @@ h3:hover {
   text-align: center;
   box-sizing: content-box;
   width: 50%;
-  display: inline-block;
   cursor: help;
   border-radius: 25px;
+}
+
+.school {
+  display: inline-block; 
 }
 
 .school:hover {
@@ -70,29 +80,34 @@ h3:hover {
   text-align: center;
   box-sizing: content-box;
   width: 50%;
-  display: inline-block;
   cursor: help;
   border-radius: 25px;
+}
+
+skills {
+  display: inline-block;
+  text-align: center;
 }
 
 .skills:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
-  text-align: center;
   box-sizing: content-box;
   width: 50%;
-  display: inline-block;
   cursor: help;
   border-radius: 25px;
+}
+
+.social {
+  text-align: center;
+  display: inline-block;
 }
 
 .social:hover {
   border: 1px solid purple;
   box-shadow: 5px 5px 3px gray;
-  text-align: center;
   box-sizing: content-box;
   width: 50%;
-  display: inline-block;
   cursor: help;
   border-radius: 25px;
 }
