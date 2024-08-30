@@ -10,7 +10,7 @@ body {
   padding-right: 200px;
   padding-top: 25px;
   padding-bottom: 25px;
-  flex-direction: column;
+  display: inline-block;
 }
 
 h1:hover {
