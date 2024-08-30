@@ -1,10 +1,12 @@
 * {
   box-sizing: border-box;
   position: absolute;
+  align-items: center;
 }
 
 html {
   text-align: center;
+  align-items: center;
 }
 
 main {
@@ -48,7 +50,6 @@ h3:hover {
   z-index: 1;
   text-align: left;
   max-width: 500px;
-  flex-direction: column;
   white-space: pre-line;
   height: auto;
 }
@@ -66,7 +67,6 @@ h3:hover {
   cursor: help;
   border-radius: 25px;
   dsplay: inline-block;
-  transform: scale(1.05);
 }
 
 .work:hover {
