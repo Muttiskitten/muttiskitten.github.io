@@ -1,3 +1,7 @@
+html {
+  text-align: center;
+}
+
 main {
   padding: 50px;
   text-align: center;
@@ -11,6 +15,8 @@ body {
   padding-right: 200px;
   padding-top: 25px;
   padding-bottom: 25px;
+  justify-content: center;
+  align-items: center;
 }
 
 h1:hover {
@@ -52,6 +58,7 @@ h3:hover {
   cursor: help;
   border-radius: 25px;
   dsplay: inline-block;
+  transform: scale(1.05);
 }
 
 .work:hover {
