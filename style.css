@@ -94,3 +94,15 @@ ul {
 li {
   
 }
+
+svg {
+  fill: purple;
+  width: 30px
+  height: 30px
+  transition: fill 0.3s;
+}
+
+svg:hover {
+  transition: fill 0.3s;
+  fill: gold;
+}
