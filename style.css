@@ -55,6 +55,8 @@ h3:hover {
   cursor: help;
   border-radius: 25px;
   position: absolute;
+  dsplay: inline-block;
+  text-align: center;
 }
 
 .work {
@@ -69,6 +71,8 @@ h3:hover {
   width: 50%;
   cursor: help;
   border-radius: 25px;
+  dsplay: inline-block;
+  text-align: center;
 }
 
 .school {
@@ -83,6 +87,8 @@ h3:hover {
   width: 50%;
   cursor: help;
   border-radius: 25px;
+  dsplay: inline-block;
+  text-align: center;
 }
 
 .skills {
@@ -97,6 +103,8 @@ h3:hover {
   width: 50%;
   cursor: help;
   border-radius: 25px;
+  dsplay: inline-block;
+  text-align: center;
 }
 
 .social {
@@ -111,6 +119,8 @@ h3:hover {
   width: 50%;
   cursor: help;
   border-radius: 25px;
+  dsplay: inline-block;
+  text-align: center;
 }
 
 .dropdown {
