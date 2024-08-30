@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  
+  text-align: center;
 }
 
 h1:hover {
@@ -16,7 +16,7 @@ h1:hover {
 }
 
 h2 {
-  
+  text-align: center;
 }
 
 h2:hover {
@@ -24,7 +24,7 @@ h2:hover {
 }
 
 h3 {
-  
+  text-align: center;
 }
 
 h3:hover {
@@ -60,7 +60,7 @@ p {
 }
 
 .contact:hover {
-  
+  box-shadow: 5px 5px 3px gray;
 }
 
 .school {
@@ -68,7 +68,7 @@ p {
 }
   
 .school:hover {
-    
+  box-shadow: 5px 5px 3px gray;  
 }
 
 .skills {
@@ -76,7 +76,7 @@ p {
 }
 
 .skills:hover {
-  
+  box-shadow: 5px 5px 3px gray;
 }
 
 .links {
@@ -84,7 +84,7 @@ p {
 }
 
 .links:hover {
-  
+  box-shadow: 5px 5px 3px gray;
 }
 
 ul {
