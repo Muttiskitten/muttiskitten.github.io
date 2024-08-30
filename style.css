@@ -3,13 +3,14 @@ main {
 }
 
 body {
-  text-align: center;
+  text-align: flex, center;
   margin: 50px;
   border: .5px solid black;
   padding-left: 200px;
   padding-right: 200px;
   padding-top: 25px;
   padding-bottom: 25px;
+  flex-direction: column;
 }
 
 h1:hover {
