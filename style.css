@@ -122,7 +122,7 @@ p {
   transition: opacity 0.3s ease;
 }
 
-.links {
+.social {
   border: .5px solid black;
   border-radius: 10px;
   padding: 5px;
@@ -130,12 +130,20 @@ p {
   display: inline-block;
 }
 
-.links:hover {
+.social:hover {
   box-shadow: 5px 5px 3px gray;
   border: 1px solid purple;
   border-radius: 10px;
   display: inline-block;
   transition: opacity 0.3s ease;
+}
+
+.links {
+  
+}
+
+.link:social {
+  
 }
 
 ul {
