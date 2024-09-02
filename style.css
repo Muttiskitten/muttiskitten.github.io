@@ -43,6 +43,7 @@ p {
   display: none;
   z-index: 1;
   white-space: pre-line;
+  text-align: center;
 }
 
 .info {
@@ -66,7 +67,7 @@ p {
   text-align: center;
   line-height: 25px;
   display: inline-block;
-  margin: 20px;
+  margin: 15px;
 }
 
 .contact:hover {
@@ -85,7 +86,7 @@ p {
   text-align: center;
   line-height: 25px;
   display: inline-block;
-  margin: 20px;
+  margin: 15px;
 }
 
 .work:hover {
@@ -104,7 +105,7 @@ p {
   text-align: center;
   line-height: 25px;
   display: inline-block;
-  margin: 20px;
+  margin: 15px;
 }
   
 .school:hover {
@@ -123,7 +124,7 @@ p {
   text-align: center;
   line-height: 25px;
   display: inline-block;
-  margin: 20px;
+  margin: 15px;
 }
 
 .skills:hover {
