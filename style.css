@@ -56,7 +56,7 @@ p {
 
 .name:hover {
   text-shadow: 2px 2px 3px purple;
-  transition: opacity 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
 .contact {
@@ -75,7 +75,7 @@ p {
   border: 1px solid purple;
   border-radius: 10px;
   display: inline-block;
-  transition: opacity 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
 .work {
@@ -94,7 +94,7 @@ p {
   border: 1px solid pruple;
   border-radius: 10px;
   display: inline-block;
-  transition: opacity 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
 .school {
@@ -113,7 +113,7 @@ p {
   border: 1px solid purple;
   border-radius: 10px;
   display: inline-block;
-  transition: opacity 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
 .skills {
@@ -132,7 +132,7 @@ p {
   border: 1px solid purple;
   border-radius: 10px;
   display: inline-block;
-  transition: opacity 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
 .social {
@@ -150,7 +150,7 @@ p {
   border: 1px solid purple;
   border-radius: 10px;
   display: inline-block;
-  transition: opacity 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
 .links {
