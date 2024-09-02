@@ -32,7 +32,7 @@ h3:hover {
 }
 
 p {
-  
+  text-align: center;
 }
 
 .info-content {
@@ -46,7 +46,7 @@ p {
 }
 
 .info {
-  
+  text-align: center;
 }
 
 .name {
@@ -61,11 +61,12 @@ p {
 .contact {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 5px;
+  padding: 10px;
   justify-content: center;
   text-align: center;
-  line-height: 50px;
+  line-height: 25px;
   display: inline-block;
+  margin: 20px;
 }
 
 .contact:hover {
@@ -79,11 +80,12 @@ p {
 .work {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 5px;
+  padding: 10px;
   justify-content: center;
   text-align: center;
-  line-height: 50px;
+  line-height: 25px;
   display: inline-block;
+  margin: 20px;
 }
 
 .work:hover {
@@ -97,11 +99,12 @@ p {
 .school {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 5px;
+  padding: 10px;
   justify-content: center;
   text-align: center;
-  line-height: 50px;
+  line-height: 25px;
   display: inline-block;
+  margin: 20px;
 }
   
 .school:hover {
@@ -115,11 +118,12 @@ p {
 .skills {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 5px;
+  padding: 10px;
   justify-content: center;
   text-align: center;
-  line-height: 50px;
+  line-height: 25px;
   display: inline-block;
+  margin: 20px;
 }
 
 .skills:hover {
@@ -133,10 +137,11 @@ p {
 .social {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 5px;
+  padding: 10px;
   justify-content: center;
   text-align: center;
   display: inline-block;
+  margin: 10px;
 }
 
 .social:hover {
