@@ -59,8 +59,10 @@ p {
 }
 
 .contact {
-  border: .5px soild black;
+  border: .5px solid black;
   border-radius: 10px;
+  padding: 5px;
+  text-align: center;
   display: inline-block;
 }
 
@@ -75,6 +77,8 @@ p {
 .work {
   border: .5px solid black;
   border-radius: 10px;
+  padding: 5px;
+  text-align: center;
   display: inline-block;
 }
 
@@ -87,8 +91,10 @@ p {
 }
 
 .school {
-  border: .5px soild black;
+  border: .5px solid black;
   border-radius: 10px;
+  padding: 5px;
+  text-align: center;
   display: inline-block;
 }
   
@@ -103,6 +109,8 @@ p {
 .skills {
   border: .5px solid black;
   border-radius: 10px;
+  padding: 5px;
+  text-align: center;
   display: inline-block;
 }
 
@@ -117,6 +125,8 @@ p {
 .links {
   border: .5px solid black;
   border-radius: 10px;
+  padding: 5px;
+  text-align: center;
   display: inline-block;
 }
 
