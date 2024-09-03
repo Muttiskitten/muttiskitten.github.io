@@ -44,7 +44,7 @@ p {
   display: inline-block;
   z-index: 1;
   white-space: pre-line;
-  text-align: center;
+  text-align: left;
 }
 
 .info {
@@ -64,7 +64,6 @@ p {
   border: .5px solid black;
   border-radius: 10px;
   padding: 10px;
-  align-items: center;
   text-align: center;
   line-height: 25px;
   display: inline-block;
@@ -83,8 +82,7 @@ p {
 .work {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 10px;
-  align-items: center;
+  padding: 15px;
   text-align: left;
   line-height: 25px;
   display: inline-block;
@@ -103,8 +101,7 @@ p {
 .school {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 10px;
-  align-items: center;
+  padding: 20px;
   text-align: center;
   line-height: 25px;
   display: inline-block;
@@ -123,8 +120,7 @@ p {
 .skills {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 10px;
-  align-items: center;
+  padding: 25px;
   text-align: left;
   line-height: 25px;
   display: inline-block;
@@ -143,8 +139,7 @@ p {
 .social {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 10px;
-  align-items: center;
+  padding: 20px;
   text-align: center;
   display: inline-block;
   margin: 10px;
@@ -182,7 +177,10 @@ svg {
   width: 30px;
   height: 30px;
   transition: fill 0.3s;
-  padding: 1px;
+  padding-bottom: 2px;
+  padding-top: auto;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 svg:hover {
