@@ -68,7 +68,7 @@ p {
   text-align: center;
   line-height: 25px;
   display: inline-block;
-  margin: 10px;
+  margin: 5px;
   transition: transform 0.3s ease;
 }
 
@@ -87,7 +87,7 @@ p {
   text-align: left;
   line-height: 25px;
   display: inline-block;
-  margin: 10px;
+  margin: 5px;
   transition: transform 0.3s ease;
 }
 
@@ -102,11 +102,12 @@ p {
 .school {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 20px;
+  padding: 10px;
+  padding-right: 25px;
   text-align: center;
   line-height: 25px;
   display: inline-block;
-  margin: 10px;
+  margin: 5px;
   transition: transform 0.3s ease;
 }
   
@@ -121,11 +122,12 @@ p {
 .skills {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 25px;
+  padding: 10px;
+  padding-right: 30px;
   text-align: left;
   line-height: 25px;
   display: inline-block;
-  margin: 10px;
+  margin: 5px;
   transition: transform 0.3s ease;
 }
 
@@ -140,10 +142,11 @@ p {
 .social {
   border: .5px solid black;
   border-radius: 10px;
-  padding: 20px;
+  padding: 10px;
+  padding-right: 25px;
   text-align: center;
   display: inline-block;
-  margin: 10px;
+  margin: 5px;
   transition: transform 0.3s ease;
 }
 
@@ -166,7 +169,7 @@ p {
 ul {
   list-style-type: none;
   text-align: center;
-  padding-left: 20px;
+  padding-left: 10px;
 }
 
 li {
@@ -176,13 +179,12 @@ li {
 
 svg {
   fill: purple;
-  width: 30px;
-  height: 30px;
+  width: 35px;
+  height: 35px;
   transition: fill 0.3s;
-  padding-bottom: 2px;
   padding-top: auto;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 svg:hover {
