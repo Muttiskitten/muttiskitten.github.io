@@ -10,7 +10,6 @@ body {
 
 h1 {
   text-align: center;
-  margin: 0;
 }
 
 h1:hover {
@@ -18,8 +17,8 @@ h1:hover {
 }
 
 h2 {
-  text-align: center;
   margin: 0;
+  text-align: center;
 }
 
 h2:hover {
@@ -28,7 +27,6 @@ h2:hover {
 
 h3 {
   text-align: center;
-  margin: 0;
 }
 
 h3:hover {
