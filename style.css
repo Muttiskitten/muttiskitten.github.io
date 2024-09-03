@@ -11,6 +11,10 @@ body {
   text-align: center;
 }
 
+.head {
+  text-align: center;
+}
+
 h1 {
   text-align: center;
 }
@@ -37,7 +41,7 @@ h3:hover {
 }
 
 p {
-  text-align: center;
+  text-align: left;
 }
 
 .info-content {
