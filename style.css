@@ -65,7 +65,7 @@ p {
 }
 
 .contact {
-  border: .5px solid black;
+  border: 0.5px solid black;
   border-radius: 10px;
   padding: 10px;
   text-align: center;
@@ -84,7 +84,7 @@ p {
 }
 
 .work {
-  border: .5px solid black;
+  border: 0.5px solid black;
   border-radius: 10px;
   padding: 15px;
   text-align: left;
@@ -92,6 +92,7 @@ p {
   display: inline-block;
   margin: 8px;
   transition: transform 0.3s ease;
+  unicode-bidi: isolate;
 }
 
 .work:hover {
@@ -103,7 +104,7 @@ p {
 }
 
 .school {
-  border: .5px solid black;
+  border: 0.5px solid black;
   border-radius: 10px;
   padding: 10px;
   padding-right: 20px;
@@ -123,12 +124,12 @@ p {
 }
 
 .skills {
-  border: .5px solid black;
+  border: 0.5px solid black;
   border-radius: 10px;
   padding: 10px;
   padding-right: 25px;
   text-align: left;
-  line-height: 25px;
+  line-height: 20px;
   display: inline-block;
   margin: 8px;
   transition: transform 0.3s ease;
@@ -143,12 +144,13 @@ p {
 }
 
 .social {
-  border: .5px solid black;
+  border: 0.5px solid black;
   border-radius: 10px;
   padding: 10px;
   text-align: center;
   display: inline-block;
   margin: 8px;
+  margin-bottom: 10px;
   transition: transform 0.3s ease;
 }
 
@@ -181,10 +183,9 @@ li {
 
 svg {
   fill: purple;
-  width: 35px;
-  height: 35px;
+  width: 32px;
+  height: 32px;
   transition: fill 0.3s;
-  padding-top: auto;
   padding-left: 5px;
   padding-right: 5px;
 }
