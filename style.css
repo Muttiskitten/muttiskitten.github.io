@@ -5,6 +5,7 @@ main {
 body {
   border: 1px solid black;
   text-align: center;
+  margin: 20px;
 }
 
 h1 {
@@ -32,7 +33,7 @@ h3:hover {
 }
 
 p {
-  text-align: left;
+  text-align: center;
 }
 
 .info-content {
@@ -40,7 +41,7 @@ p {
   background-color: #f1f1f1;
   border: 1px solid #ccc;
   padding: 5px;
-  display: none;
+  display: inline-block;
   z-index: 1;
   white-space: pre-line;
   text-align: center;
