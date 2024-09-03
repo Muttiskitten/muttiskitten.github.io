@@ -141,6 +141,7 @@ display: block;
   line-height: 25px;
   display: inline-block;
   margin: 8px;
+  cursor: progress;
   transition: transform 0.3s ease;
 }
   
