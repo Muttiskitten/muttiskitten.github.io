@@ -4,7 +4,7 @@ document.querySelectorAll('.info').forEach(function(trigger) {
     document.getElementById('info-content').textContent = infoContent;
 
     var infoBox = document.querySelector('.info-content');
-    infoBox.style.display = 'block';
+    infoBox.style.display = 'inline-block';
   });
 
   trigger.addEventListener('mousemove', function(event) {
