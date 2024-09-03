@@ -36,8 +36,13 @@ h3:hover {
   text-shadow: 2px 2px 3px gray;
 }
 
-p {
+h6 {
+  font-weight: normal;
   text-align: center;
+}
+
+p {
+  text-align: left;
 }
 
 .info-content {
