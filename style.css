@@ -55,8 +55,8 @@ p {
 }
 
 .name:hover {
-  text-shadow: 2px 2px 3px purple;
-  transform: translateY(-10px) scale(1.05);
+  text-shadow: 2px 2px 5px purple;
+  transform: translateY(-5px) scale(1.05);
 }
 
 .contact {
@@ -72,11 +72,11 @@ p {
 }
 
 .contact:hover {
-  box-shadow: 5px 5px 3px gray;
+  box-shadow: 5px 5px 5px gray;
   border: 1px solid purple;
   border-radius: 10px;
   display: inline-block;
-  transform: translateY(-10px) scale(1.05);
+  transform: translateY(-5px) scale(1.05);
 }
 
 .work {
@@ -87,16 +87,16 @@ p {
   text-align: center;
   line-height: 25px;
   display: inline-block;
-  margin: 15px;
+  margin: 10px;
   transition: transform 0.3s ease;
 }
 
 .work:hover {
-  box-shadow: 5px 5px 3px gray;
+  box-shadow: 5px 5px 5px gray;
   border: 1px solid purple;
   border-radius: 10px;
   display: inline-block;
-  transform: translateY(-10px) scale(1.05);
+  transform: translateY(-5px) scale(1.05);
 }
 
 .school {
@@ -107,16 +107,16 @@ p {
   text-align: center;
   line-height: 25px;
   display: inline-block;
-  margin: 15px;
+  margin: 10px;
   transition: transform 0.3s ease;
 }
   
 .school:hover {
-  box-shadow: 5px 5px 3px gray;
+  box-shadow: 5px 5px 5px gray;
   border: 1px solid purple;
   border-radius: 10px;
   display: inline-block;
-  transform: translateY(-10px) scale(1.05);
+  transform: translateY(-5px) scale(1.05);
 }
 
 .skills {
@@ -127,16 +127,16 @@ p {
   text-align: center;
   line-height: 25px;
   display: inline-block;
-  margin: 15px;
+  margin: 10px;
   transition: transform 0.3s ease;
 }
 
 .skills:hover {
-  box-shadow: 5px 5px 3px gray;
+  box-shadow: 5px 5px 5px gray;
   border: 1px solid purple;
   border-radius: 10px;
   display: inline-block;
-  transform: translateY(-10px) scale(1.05);
+  transform: translateY(-5px) scale(1.05);
 }
 
 .social {
@@ -151,11 +151,11 @@ p {
 }
 
 .social:hover {
-  box-shadow: 5px 5px 3px gray;
+  box-shadow: 5px 5px 5px gray;
   border: 1px solid purple;
   border-radius: 10px;
   display: inline-block;
-  transform: translateY(-10px) scale(1.05);
+  transform: translateY(-5px) scale(1.05);
 }
 
 .links {
