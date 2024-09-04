@@ -77,7 +77,7 @@ p {
 }
 
 .name:hover {
-  cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1040.ani), url(https://ani.cursors-4u.net/nature/nat-11/nat1035.png), auto;
+  cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1040.ani), url(https://ani.cursors-4u.net/nature/nat-11/nat1035.png), url(“https://www.cursors-4u.com/cursor/2013/02/16/blinking-cute-box-cat.html" target="_blank" title="Blinking Cute Box Cat"><img src="https://cur.cursors-4u.net/cursor.png" border="0" alt="Blinking Cute Box Cat" style="position:absolute; top: 0px; right: 0px;), auto;
 }
 
 .name:hover {
@@ -93,6 +93,7 @@ p {
   line-height: 25px;
   display: inline-block;
   margin: 8px;
+  cursor: url(https://ani.cursors-4u.net/toons/too-12/too1130.cur), auto;
   transition: transform 0.3s ease;
 }
 
