@@ -228,6 +228,10 @@ li {
   text-align: left;
 }
 
+li:hover {
+  text-decoration: underline;
+}
+
 svg {
   fill: purple;
   width: 32px;
