@@ -251,3 +251,7 @@ svg:hover {
   cursor: grab;
   bos-shadow: 5px 5px 3px gray;
 }
+
+svg:avtive {
+  cursor: grabbing;
+}
