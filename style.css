@@ -254,4 +254,5 @@ svg:hover {
 
 svg:avtive {
   cursor: grabbing;
+  fill: #20B2A6;
 }
