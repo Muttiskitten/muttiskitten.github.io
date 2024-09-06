@@ -84,6 +84,7 @@ p {
 }
 
 name:active {
+  cursor: grabbing;
   transform: rotate(180deg);
 }
 
