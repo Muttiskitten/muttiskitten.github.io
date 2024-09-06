@@ -18,3 +18,13 @@ document.querySelectorAll('.info').forEach(function(trigger) {
     infoBox.style.display = 'none';
   });
 });
+const button = document.getElementById('work');
+
+        button.addEventListener('mousedown', function() {
+            button.textContent = 'What Would Be Here?'; 
+        });
+
+        button.addEventListener('mouseup', function() {
+            button.textContent = 'Work Experience';
+        });
+});
