@@ -18,13 +18,13 @@ document.querySelectorAll('.info').forEach(function(trigger) {
     infoBox.style.display = 'none';
   });
 });
-const word = document.getElementById('work');
+const header = document.getElementById('work');
 
-        word.addEventListener('mousedown', function() {
-            word.textContent = 'What Would Be Here?'; 
+        header.addEventListener('mousedown', function() {
+            header.textContent = 'What Would Be Here?'; 
         });
 
-        word.addEventListener('mouseup', function() {
-            word.textContent = 'Work Experience';
+        header.addEventListener('mouseup', function() {
+            header.textContent = 'Work Experience';
         });
 });
