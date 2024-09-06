@@ -126,7 +126,7 @@ name:active {
 }
 
 .dropdown:hover .drop-content {
-  display: block;
+  display: block !important;
 }
 
 .work {
