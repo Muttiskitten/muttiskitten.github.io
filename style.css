@@ -124,6 +124,7 @@ name:active {
   z-index: 1;
   top: 100%;
   left: 0;
+  border: 1px solid red;
 }
 
 .dropdown:hover .drop-content {
