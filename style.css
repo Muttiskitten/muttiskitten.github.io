@@ -79,9 +79,6 @@ p {
 .name:hover {
   cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1040.ani), 
           url(https://ani.cursors-4u.net/nature/nat-11/nat1035.png), auto;
-}
-
-.name:hover {
   text-shadow: 2px 2px 5px purple;
   transform: translateY(-5px) scale(1.05);
 }
