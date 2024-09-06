@@ -104,6 +104,9 @@ p {
   border-radius: 10px;
   display: inline-block;
   transform: translateY(-5px) scale(1.05);
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: black;
 }
 
 .dropdown {
