@@ -27,4 +27,3 @@ const header = document.getElementById('work');
         header.addEventListener('mouseup', function() {
             header.textContent = 'Work Experience';
         });
-});
