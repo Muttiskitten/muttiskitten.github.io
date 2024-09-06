@@ -102,8 +102,6 @@ name:active {
 .contact:hover {
   box-shadow: 5px 5px 5px gray;
   border: 1px solid purple;
-  border-radius: 10px;
-  display: inline-block;
   transform: translateY(-5px) scale(1.05);
   text-decoration: underline;
   text-decoration-style: wavy;
@@ -114,7 +112,6 @@ name:active {
   position: relative;
   display: inline-flex;
   align-items: center;
-  text-align: center;
 }
 
 .drop-content {
@@ -129,7 +126,7 @@ name:active {
 }
 
 .dropdown:hover .drop-content {
-display: block;
+  display: block;
 }
 
 .work {
