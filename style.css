@@ -83,7 +83,7 @@ p {
   transform: translateY(-5px) scale(1.05);
 }
 
-name:active {
+.name:active {
   cursor: grabbing;
   transform: rotate(180deg);
 }
