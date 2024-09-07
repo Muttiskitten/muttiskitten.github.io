@@ -116,7 +116,7 @@ name:active {
 }
 
 .drop-content {
-  display: block;
+  display: none;
   position: absolute;
   background-color: white;
   min-width: 160px;
@@ -127,7 +127,7 @@ name:active {
 }
 
 .dropdown:hover .drop-content {
-  display: block !important;
+  display: block;
 }
 
 .work {
