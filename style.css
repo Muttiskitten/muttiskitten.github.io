@@ -64,6 +64,8 @@ button {
 
 button:hover {
   cursor: grab;
+  fill: purple;
+  color: gold;
 }
 
 button:active {
