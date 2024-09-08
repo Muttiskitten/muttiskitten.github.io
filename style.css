@@ -68,7 +68,8 @@ button:hover {
 
 button:active {
   cursor: grabbing;
-  color: blue;
+  color: white;
+  fill: dark violet;
 }
 
 .info-content {
