@@ -58,13 +58,18 @@ p {
 }
 
 button {
+  background-color: #4CAF50;
+  color: white;
   padding: 2px;
   margin: 5px;
+  border-radius: 2px;
+  box-shadow: 0 5px #666;
 }
 
 button:hover {
   cursor: grab;
   background-color: purple;
+  box-shadow: 0 2px #666;
   color: gold;
 }
 
@@ -72,6 +77,8 @@ button:active {
   cursor: grabbing;
   color: white;
   background-color: violet;
+  box-shadow: 0 2px #666;
+  transform: translateY(4px);
 }
 
 .info-content {
