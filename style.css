@@ -59,8 +59,7 @@ p {
 
 button {
   padding: 2px;
-  margin-top: 2px:
-  margin-bottom: 2px;
+  margin: 5px;
 }
 
 button:hover {
@@ -69,6 +68,7 @@ button:hover {
 
 button:active {
   cursor: grabbing;
+  color: blue;
 }
 
 .info-content {
