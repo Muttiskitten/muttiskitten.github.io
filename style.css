@@ -64,14 +64,14 @@ button {
 
 button:hover {
   cursor: grab;
-  fill: purple;
+  background-color: purple;
   color: gold;
 }
 
 button:active {
   cursor: grabbing;
   color: white;
-  fill: violet;
+  background-color: violet;
 }
 
 .info-content {
