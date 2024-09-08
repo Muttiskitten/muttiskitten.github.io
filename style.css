@@ -127,6 +127,7 @@ button:active {
   position: relative;
   display: inline-flex;
   align-items: center;
+  cursor: url(https://ani.cursors-4u.net/toons/too-12/too1130.cur), auto;
 }
 
 .drop-content {
