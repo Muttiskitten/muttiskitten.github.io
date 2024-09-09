@@ -27,13 +27,3 @@ const header = document.getElementById('work');
         header.addEventListener('mouseup', function() {
             header.textContent = 'Work Experience';
         });
-});
-const header = document.getElementById('school');
-
-        header.addEventListener('mousedown', function() {
-            header.textContent = 'Looking For Something?'; 
-        });
-
-        header.addEventListener('mouseup', function() {
-            header.textContent = 'Education';
-        });
