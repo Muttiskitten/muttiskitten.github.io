@@ -95,6 +95,10 @@ button:active {
   text-align: left;
 }
 
+.info:hover .info-content {
+  display: inline-flex;
+}
+
 .name {
   transition: transform 0.3s ease;
 }
@@ -153,7 +157,7 @@ button:active {
 }
 
 .dropdown:hover .drop-content {
-  display: block;
+  display: inline-block;
 }
 
 .work {
