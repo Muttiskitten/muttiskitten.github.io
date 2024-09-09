@@ -18,12 +18,17 @@ document.querySelectorAll('.info').forEach(function(trigger) {
     infoBox.style.display = 'none';
   });
 });
-const header = document.getElementById('work');
+function addTextChangeListener(elementId, initialText, changedText) {
+    const element = document.getElementById(elementId);
 
-        header.addEventListener('mousedown', function() {
-            header.textContent = 'What Would Be Here?'; 
-        });
+    element.addEventListener('mousedown', function() {
+        element.textContent = changedText;
+    });
 
-        header.addEventListener('mouseup', function() {
-            header.textContent = 'Work Experience';
-        });
+    element.addEventListener('mouseup', function() {
+        element.textContent = initialText;
+    });
+}
+addTextChangeListener('work', 'Work Experience', 'What Would Be Here?');
+addTextChangeListener('education', 'Education', 'What Did You Learn?');
+addTextChangeListener('skills', 'Skills', 'What Can You Do?');
