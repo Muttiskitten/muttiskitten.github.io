@@ -90,16 +90,15 @@ button:active {
   white-space: pre-line;
   text-align: left;
   line-height: 1.2;
-  border-top-left-radius: 0;
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
-  border-bottom-left-radius: 20px;
 }
 
 #info-content {
   margin-top: 4px;
   margin-bottom: 4px;
-  
+  border-top-left-radius: 0;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
 }
 
 .info {
