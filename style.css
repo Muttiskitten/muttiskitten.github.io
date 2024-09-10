@@ -136,7 +136,6 @@ button:active {
   line-height: 25px;
   display: inline-block;
   margin: 8px;
-  margin-bottom: 0;
   cursor: url(https://ani.cursors-4u.net/toons/too-12/too1130.cur), auto;
   transition: transform 0.3s ease;
 }
@@ -182,7 +181,6 @@ button:active {
   line-height: 25px;
   display: inline-block;
   margin: 8px;
-  margin-top: 12px;
   transition: transform 0.3s ease;
   unicode-bidi: isolate;
 }
