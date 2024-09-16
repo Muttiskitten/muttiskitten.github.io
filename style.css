@@ -186,6 +186,7 @@ button:active {
   line-height: 25px;
   display: inline-block;
   margin: 8px;
+  margin-bottom: 0;
   transition: transform 0.3s ease;
   unicode-bidi: isolate;
 }
@@ -248,6 +249,7 @@ button:active {
   text-align: center;
   display: inline-block;
   margin: 8px;
+  margin-top: 0;
   margin-bottom: 15px;
   transition: transform 0.3s ease;
 }
