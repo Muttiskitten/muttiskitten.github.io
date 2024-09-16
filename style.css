@@ -206,7 +206,6 @@ button:active {
   text-align: center;
   line-height: 25px;
   display: inline-block;
-  margin: 8px;
   transition: transform 0.3s ease;
 }
   
@@ -226,7 +225,6 @@ button:active {
   text-align: left;
   line-height: 20px;
   display: inline-block;
-  margin: 8px;
   transition: transform 0.3s ease;
 }
 
