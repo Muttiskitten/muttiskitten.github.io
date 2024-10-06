@@ -222,6 +222,10 @@ button:active {
   transform: translateY(-5px) scale(1.05);
 }
 
+.school-icon {
+  font-size: 20px;
+}
+
 .skills {
   border: 0.5px solid black;
   border-radius: 10px;
